@@ -1,4 +1,4 @@
-﻿# COMPLETED_AND_REMAINING.md — AAPDA Grid Progress Tracker
+# COMPLETED_AND_REMAINING.md — AAPDA Grid Progress Tracker
 
 > **Source of truth for hackathon progress. Keep this accurate. Do NOT mark tasks complete until they are verified.**
 > Updated as part of the same commit that completes each feature (see RULES.md §11).

@@ -1,4 +1,4 @@
-﻿# TASKS.md — AAPDA Grid Task Board
+# TASKS.md — AAPDA Grid Task Board
 
 > Assigned tasks for all 4 team members. Update status as work progresses.
 > Priority: **P0** = blocker (do first), **P1** = core feature, **P2** = nice-to-have.
